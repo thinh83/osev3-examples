@@ -81,7 +81,7 @@
                      "description": "Spring Boot STI image",
                      "iconClass": "icon-jboss",
                      "tags": "builder,springboot,java,maven,gradle",
-                     "supports": "springboot,java:8,maven:3,gradle:2.6",
+                     "supports": "springboot,java:8,maven:3,gradle:4.6",
                      "version": "1.0"
                   }
                }
